@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="13671">
+        <Style id="13714">
+            <PolyStyle id="13715">
+                <color>7f0000ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="13673">
+            <name>VILLACOUBLAY</name>
+            <styleUrl>#13714</styleUrl>
+            <MultiGeometry id="13672">
+                <Polygon id="13674">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13676">
+                            <coordinates>2.0894444444444447,48.79722222222222,457 2.0805555555555557,48.786944444444444,457 2.0805555555555557,48.76166666666666,457 2.1172222222222223,48.75833333333333,457 2.1491666666666664,48.764722222222225,457 2.1516666666666664,48.75555555555555,457 1.988888888888889,48.75416666666667,457 1.9869444444444444,48.795833333333334,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13678">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13680">
+                            <coordinates>2.0894444444444447,48.79722222222222,762 2.0805555555555557,48.786944444444444,762 2.0805555555555557,48.76166666666666,762 2.1172222222222223,48.75833333333333,762 2.1491666666666664,48.764722222222225,762 2.1516666666666664,48.75555555555555,762 1.988888888888889,48.75416666666667,762 1.9869444444444444,48.795833333333334,762</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13682">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13684">
+                            <coordinates>2.0894444444444447,48.79722222222222,457 2.0894444444444447,48.79722222222222,762 2.0805555555555557,48.786944444444444,762 2.0805555555555557,48.786944444444444,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13686">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13688">
+                            <coordinates>2.0805555555555557,48.786944444444444,457 2.0805555555555557,48.786944444444444,762 2.0805555555555557,48.76166666666666,762 2.0805555555555557,48.76166666666666,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13690">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13692">
+                            <coordinates>2.0805555555555557,48.76166666666666,457 2.0805555555555557,48.76166666666666,762 2.1172222222222223,48.75833333333333,762 2.1172222222222223,48.75833333333333,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13694">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13696">
+                            <coordinates>2.1172222222222223,48.75833333333333,457 2.1172222222222223,48.75833333333333,762 2.1491666666666664,48.764722222222225,762 2.1491666666666664,48.764722222222225,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13698">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13700">
+                            <coordinates>2.1491666666666664,48.764722222222225,457 2.1491666666666664,48.764722222222225,762 2.1516666666666664,48.75555555555555,762 2.1516666666666664,48.75555555555555,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13702">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13704">
+                            <coordinates>2.1516666666666664,48.75555555555555,457 2.1516666666666664,48.75555555555555,762 1.988888888888889,48.75416666666667,762 1.988888888888889,48.75416666666667,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13706">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13708">
+                            <coordinates>1.988888888888889,48.75416666666667,457 1.988888888888889,48.75416666666667,762 1.9869444444444444,48.795833333333334,762 1.9869444444444444,48.795833333333334,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+                <Polygon id="13710">
+                    <altitudeMode>absolute</altitudeMode>
+                    <outerBoundaryIs>
+                        <LinearRing id="13712">
+                            <coordinates>1.9869444444444444,48.795833333333334,457 1.9869444444444444,48.795833333333334,762 2.0894444444444447,48.79722222222222,762 2.0894444444444447,48.79722222222222,457</coordinates>
+                        </LinearRing>
+                    </outerBoundaryIs>
+                </Polygon>
+            </MultiGeometry>
+        </Placemark>
+    </Document>
+</kml>
