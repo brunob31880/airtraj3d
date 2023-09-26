@@ -2,7 +2,7 @@
 
 Ce projet utilise Cesium pour afficher une carte 3D à l'intérieur d'une application React. Il utilise également Resium, une bibliothèque qui facilite l'intégration de Cesium avec React.
 
-![airtraj3d](./doc/airtraj3d.png)
+![airtraj3d](./doc/airtraj.png)
 
 ## Fonctionnalités
 
