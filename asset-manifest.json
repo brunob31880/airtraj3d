@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/airtraj3d/static/css/main.3e3814e5.css",
-    "main.js": "/airtraj3d/static/js/main.206dc47d.js",
-    "static/js/496.6b7a0a23.chunk.js": "/airtraj3d/static/js/496.6b7a0a23.chunk.js",
-    "index.html": "/airtraj3d/index.html",
-    "main.3e3814e5.css.map": "/airtraj3d/static/css/main.3e3814e5.css.map",
-    "main.206dc47d.js.map": "/airtraj3d/static/js/main.206dc47d.js.map",
-    "496.6b7a0a23.chunk.js.map": "/airtraj3d/static/js/496.6b7a0a23.chunk.js.map"
+    "main.css": "https://brunob31880.github.io/airtraj3d/static/css/main.3e3814e5.css",
+    "main.js": "https://brunob31880.github.io/airtraj3d/static/js/main.804c8424.js",
+    "static/js/496.6b7a0a23.chunk.js": "https://brunob31880.github.io/airtraj3d/static/js/496.6b7a0a23.chunk.js",
+    "index.html": "https://brunob31880.github.io/airtraj3d/index.html",
+    "main.3e3814e5.css.map": "https://brunob31880.github.io/airtraj3d/static/css/main.3e3814e5.css.map",
+    "main.804c8424.js.map": "https://brunob31880.github.io/airtraj3d/static/js/main.804c8424.js.map",
+    "496.6b7a0a23.chunk.js.map": "https://brunob31880.github.io/airtraj3d/static/js/496.6b7a0a23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e3814e5.css",
-    "static/js/main.206dc47d.js"
+    "static/js/main.804c8424.js"
   ]
 }
